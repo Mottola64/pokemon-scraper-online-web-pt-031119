@@ -4,4 +4,4 @@ CREATE TABLE IF NOT EXISTS pokemon (
   id PRIMARY KEY INTEGER,
   name TEXT,
   type TEXT,
-);
+)
